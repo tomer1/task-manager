@@ -2,3 +2,5 @@
 node_modules/
 #Vscode folder
 .vscode
+
+.history/
